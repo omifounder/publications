@@ -1,6 +1,6 @@
 ## 📝 Publications
 
-- **Concept to Code: Sequential Recommendation with Large Language Models** - RecSys 2025 (Accepted)
+- **Concept to Code: Sequential Recommendation with Large Language Models** - RecSys 2025 [🔗](https://dl.acm.org/doi/10.1145/3705328.3748003) 
 
 - **Conversational Recommender System Using Deep Reinforcement Learning** - RecSys 2022 [🔗](https://dl.acm.org/doi/abs/10.1145/3523227.3547376)
 
